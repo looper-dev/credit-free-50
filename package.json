@@ -1,0 +1,17 @@
+{
+  "name": "pgslotmc",
+  "theme": "syntax",
+  "version": "0.14.0",
+  "description": "ยินดีต้อนรับสู่ PGslotmc.com เว็บรวมเกมส์อันดับ 1 ในประเทศ เว็บเกมส์ บนมือถือ กระเป๋าเดียว",
+  "keywords": [
+    "pgslotmc",
+    "slotpg",
+    "เว็บพนันออนไลน์",
+    "คาสิโนออนไลน์"
+  ],
+  "repository": "https://cutt.ly/lotto432s",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
